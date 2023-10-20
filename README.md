@@ -20,17 +20,20 @@ The following functionality is completed with this project:
   
 ## Get source code from Github
 
-```git clone https://github.com/hanamido/organize_files
+```
+git clone https://github.com/hanamido/organize_files
 cd organize_files
 ```
 
 ## Usage
 
-```py
+```
+py
 python3 organize_files.py
 ```
 
-```bash
+```
+bash
 $ python -m organize_files
 ```
 

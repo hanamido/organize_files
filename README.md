@@ -20,22 +20,21 @@ The following functionality is completed with this project:
   
 ## Install it from PyPI
 
-```git clone https://github.com/author_name/project_urlname project_name
-cd organize_folders```
+```git clone https://github.com/hanamido/organize_files
+```cd organize_files
 
 ```bash
-pip install organize_folders
+```pip install organize_folders
 ```
 
 ## Usage
 
 ```py
-python3 move_multiple_files.py
-python3 rename_multiplefiles.py
+python3 organize_files.py
 ```
 
 ```bash
-$ python -m organize_folders
+$ python -m organize_files
 ```
 
 ## License

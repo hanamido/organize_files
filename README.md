@@ -18,13 +18,10 @@ The following functionality is completed with this project:
 ## To Run:
 - Make sure you have Python3 installed first
   
-## Install it from PyPI
+## Get source code from Github
 
 ```git clone https://github.com/hanamido/organize_files
-```cd organize_files
-
-```bash
-```pip install organize_folders
+cd organize_files
 ```
 
 ## Usage
